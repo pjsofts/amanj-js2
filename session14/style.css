@@ -1,0 +1,16 @@
+#products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product {
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+
+#products img {
+    width: 150px;
+    height: 150px;
+}
